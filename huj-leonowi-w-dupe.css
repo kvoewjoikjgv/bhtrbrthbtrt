@@ -1,5 +1,7 @@
-body {
-  background-color: #000 !important
+.card mb-5 {
+  display:flex;
+  border-radius: 10px;
 }
+  
 
   
